@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contribuindo em uma Empresa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f0f8;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background-color: #d48dcf;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            color: white;
+        }
+        .search-bar {
+            margin: 20px 0;
+        }
+        .search-bar input[type="text"] {
+            padding: 10px;
+            width: 300px;
+            border: 1px solid #d48dcf;
+            border-radius: 5px;
+        }
+        .company-details {
+            margin: 20px 0;
+            padding: 15px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        .images {
+            display: flex;
+            justify-content: space-around;
+            margin: 20px 0;
+        }
+        .images img {
+            width: 30%;
+            border-radius: 10px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #d48dcf;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Contribuindo em uma Empresa</h1>
+    <div class="search-bar">
+        <input type="text" placeholder="Pesquisar...">
+    </div>
+</header>
+
+<section class="company-details">
+    <h2>Como Contribuir em uma Empresa</h2>
+    <p>Para contribuir em uma empresa, você pode:</p>
+    <ul>
+        <li>Ser proativo e trazer novas ideias.</li>
+        <li>Colaborar em equipe e ajudar colegas.</li>
+        <li>Participar de treinamentos e desenvolver suas habilidades.</li>
+        <li>Manter uma comunicação clara e aberta.</li>
+        <li>Demonstrar responsabilidade e compromisso.</li>
+    </ul>
+</section>
+
+<section class="company-details">
+    <h2>Grandes Empresas e Suas Contribuições</h2>
+    <p><strong>Google:</strong> Famosa por seu ambiente de trabalho inovador, incentiva a criatividade de seus colaboradores.</p>
+    <p><strong>Apple:</strong> Foca em design e funcionalidade, com uma cultura que valoriza a perfeição e a inovação.</p>
+    <p><strong>Amazon:</strong> Reconhecida por sua velocidade e eficiência, busca sempre melhorar a experiência do cliente.</p>
+</section>
+
+<div class="images">
+    <img src="https://via.placeholder.com/300x200" alt="https://www.folhavitoria.com.br/geral/blogs/direito-ao-direito/wp-content/uploads/2020/09/imagem-corporativa-fv.png">
+    <img src="https://via.placeholder.com/300x200" alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1k1A85Hc2IFEP4oR4PxjQB9rh_EIJjFRrjA&s">
+    <img src="https://via.placeholder.com/300x200" alt="https://investidorsardinha.r7.com/wp-content/uploads/2020/12/tipos-de-empresa-as-7-modalidades-existentes-caracteristicas-e-portes-3-1024x644.jpg">
+</div>
+
+<footer>
+    <p>&copy; 2024 Contribuindo em uma Empresa</p>
+</footer>
+
+</body>
+</html>
